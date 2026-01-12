@@ -1,0 +1,28 @@
+.main {
+    background-color: beige;
+}
+
+.list {
+        color: blue;
+        background-color: lightgrey;
+    
+}
+
+.video-container {
+    background-color: yellowgreen;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 29px;
+}
+
+.nice {
+    margin-bottom: 100px;
+}
+
+.navbar {
+    background-color: teal; 
+    font-size: 25px; font-weight: 500;
+    
+}
+
+
