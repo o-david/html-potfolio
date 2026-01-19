@@ -1,40 +1,43 @@
 .main {
-    background-color: beige;
+  background-color: beige;
 }
 
 .list {
-        color: blue;
-        background-color: lightgrey;
-    
+  color: blue;
+  background-color: lightgrey;
 }
 
 .video-container {
-    background-color: yellowgreen;
-    display: inline-block;
-    margin-top: 20px;
-    margin-bottom: 29px;
+  background-color: yellowgreen;
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 29px;
 }
 
 .nice {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .navbar {
-    background-color: teal; 
-    font-size: 25px; font-weight: 500;
-    border-radius: 3px;
-    padding: 5px;
+  background-color: teal;
+  font-size: 25px;
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 5px;
 }
 
 .footer {
-    background:#222; color:white; text-align:center; padding:15px;
-    margin-bottom: 70px;
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 20px;
 }
 
 .par {
-    border-style: solid;
-    border-width: 5px;
-    border-color: teal;
-    border-radius: 10px;
-    padding: 5px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: teal;
+  border-radius: 10px;
+  padding: 5px;
 }
